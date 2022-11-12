@@ -7,8 +7,8 @@ Team Size : 4
 
 Team Leader : HARIHARASUDHAN S
 
-Team member : ARAVIND KUMAR S
+M1 Lead : ARAVIND KUMAR S
 
-Team member : Arun K S
+M2 Lead : Arun K S
 
-Team member : BHARATH R
+M3 Lead: BHARATH R
