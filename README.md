@@ -120,21 +120,22 @@ M3 Lead: BHARATH R
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.gif" alt="👍" width="32" height="32">
 </picture> Completed Tasks : </h2>
   
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
+- [x] Project Objectives <br>
+- [x] Project Flow <br>
+- [x] Project Structure <br>
 - [x] Assignment - 1 <br>
 - [x] Assignment - 2  <br>
 - [x] Assignment - 3  <br>
 - [x] Assignment - 4 <br>
 
-- [x] Proposed Solution <br>
-- [x] Proposed Solution fit <br>
-- [x] Solution Architecture <br>
-- [x] Data Flow Diagram <br>
-- [x] Solution Requirements <br>
-- [x] Technology Stack <br>
-- [x] Customer Journey Map <br>
+- [x] Prerequisites <br>
+- [x] Prior Knowledge <br>
+- [x] Collection of Data set <br>
+- [x] Image Preprocessing <br>
+- [x] Model Building <br>
+- [x] Application Building <br>
+- [x] Train the Model on IBM<br>
+- [x] Ideation Phase <br>
 - [x] Project Design and Planning <br>
 - [x] Project Development Phase <br>
 
