@@ -12,7 +12,11 @@ def intro():
 
 @app.route('/launch')
 def launch():
-    return render_template('launch.html', title='Disaster Classifier | Launch', active_page='launch')    
+    return render_template('launch.html', title='Disaster Classifier | Launch', active_page='launch') 
+
+@app.route('/output')
+def output():
+    return render_template('output.html') 
 
 if __name__ == '__main__':
     app.run(debug=True)
